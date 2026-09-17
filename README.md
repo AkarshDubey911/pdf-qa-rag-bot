@@ -8,6 +8,3 @@ Chunk text intelligently with overlap to preserve context
 Generate embeddings locally using HuggingFace (no API cost)
 Store and retrieve relevant chunks using a Chroma vector database
 Generate accurate, context-grounded answers using Groq's LLM (fast + free)
-(Planned) Chat history for follow-up questions
-(Planned) Source citation showing which page/document an answer came from
-(Planned) Streamlit web interface
